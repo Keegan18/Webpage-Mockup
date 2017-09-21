@@ -1,6 +1,35 @@
-#h1{
-
+body {
+    background-image: url("https://i.ytimg.com/vi/TLMUoE1iLW4/maxresdefault.jpg");
+    background-repeat: no-repeat;
+	background-position: right top;
+    background-attachment: fixed;
+    margin-bottom: 180px;
+    background-size: cover;
 }
-#h2{
 
+#top-bar {
+    background: transparent url("images/top-bar.png");
+    height: 29px;
+    margin-top: 0%;
+    margin-left: 37%;
+}
+#logo {
+    background: transparent url("images/logo.png");
+    height: 330px;
+    margin-left: 180px;
+    background-repeat: no-repeat;
+}
+#mid-bar {
+    background: transparent url("images/mid-bar.png");
+    height: 29px;
+    margin-top: 15%;
+    margin-left: 180px;
+}
+#bottom-bar {
+    background: transparent url("images/bottom-bar.png");
+    margin-top: 36.36%;
+    height: 33px;
+    width: 5000px;
+    margin-left: 16%;
+    background-repeat: no-repeat;
 }
