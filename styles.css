@@ -1,12 +1,3 @@
-body {
-    background-image: url("https://i.ytimg.com/vi/TLMUoE1iLW4/maxresdefault.jpg");
-    background-repeat: no-repeat;
-	background-position: right top;
-    background-attachment: fixed;
-    margin-bottom: 180px;
-    background-size: cover;
-}
-
 #top-bar {
     background: transparent url("images/top-bar.png");
     height: 29px;
@@ -21,15 +12,16 @@ body {
 }
 #mid-bar {
     background: transparent url("images/mid-bar.png");
-    height: 29px;
-    margin-top: 15%;
+    height: 70px;
+    width: 650px;
+    margin-top: 5%;
     margin-left: 180px;
 }
 #bottom-bar {
     background: transparent url("images/bottom-bar.png");
-    margin-top: 36.36%;
-    height: 33px;
-    width: 5000px;
+    margin-top: 28%;
+    height: 300px;
+    width: 100%;
     margin-left: 16%;
     background-repeat: no-repeat;
 }
